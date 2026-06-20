@@ -30,7 +30,7 @@
 * **Языки программирования:** Python (основной), Bash, SQL
 * **Библиотеки ML / DL:** PyTorch, Scikit-learn, NumPy, Pandas
 * **Веб-фреймворки & Очереди:** FastAPI, Redis
-* **Инструменты & Окружение:** Git, Docker, WSL (Ubuntu), macOS, VS Code
+* **Инструменты & Окружение:** Git, Docker, macOS, VS Code
 * **Knowledge Management:** Obsidian (структурирование архитектурных паттернов и ML-исследований)
 
 ---
@@ -47,4 +47,4 @@
 
 [Email](mailto:ваша-почта)
 
-💼 **Сейчас:** Изучаю новые подходы в ML-инженерии · Открыт к стажировкам и junior-позициям в Data Engineering, ML и Quant-Risk.
+💼 **Сейчас:** Открыт к стажировкам и junior-позициям в Data Engineering, ML и Quant-Risk.
